@@ -1,20 +1,22 @@
 <p align="center">
-  <img src="../assets/zeelabs-banner.png" alt="ZeeLabs Banner" width="80%"/>
+  <img src="../assets/zeelabs-banner.png" alt="ZeeLabs Banner" width="100%"/>
   <p align="center">
     <a href="https://zeelabs.ai/" target="_blank">
       <img src="../assets/zeelabs-logo-light.png" alt="ZeeLabs Logo" width="5%"/>
     </a>
-  </p>
+  </p>    
 </p>
-
-<h1 align="center">👋 Welcome to ZeeLabs!</h1>
+    
+<h1 align="center">
+    👋 Welcome to ZeeLabs!
+</h1>
 
 <p align="center">
   <strong>We build custom AI agents that actually make a difference — securely, reliably, and at scale.</strong>
   <br />
   <a href="https://zeelabs.ai/" target="_blank"><strong>Visit our Website »</strong></a>
    | 
-  <a href="https://zeelabs.ai/#book-consultation"><strong>Book a Free Consultation »</strong></a>
+  <a href="https://calendly.com/jose-zeelabs/zeelabs-talk-to-an-ai-expert"><strong>Book a Free Consultation »</strong></a>
 </p>
 
 ---
