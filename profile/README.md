@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="../assets/zeelabs-banner.png" alt="ZeeLabs Banner" width="100%"/>
+  <img src="../assets/Reach Banner.png" alt="Reach Banner" width="100%"/>
   <p align="center">
     <a href="https:/usereach.ai/" target="_blank">
-      <img src="../assets/zeelabs-logo-light.png" alt="ZeeLabs Logo" width="5%"/>
+      <img src="../assets/Frame 32.png" alt="Reach Logo" width="5%"/>
     </a>
   </p>    
 </p>
