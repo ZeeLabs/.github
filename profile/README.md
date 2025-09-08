@@ -2,7 +2,7 @@
   <img src="../assets/Reach Banner.png" alt="Reach Banner" width="100%"/>
   <p align="center">
     <a href="https:/usereach.ai/" target="_blank">
-      <img src="../assets/Frame 32.png" alt="Reach Logo" width="5%"/>
+      <img src="../assets/Frame 33.png" alt="Reach Logo" width="5%"/>
     </a>
   </p>    
 </p>
